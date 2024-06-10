@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Preahvihear&display=swap');
+.exp-parent {
+    background: radial-gradient(50% 50% at 50% 50%, #763CAC 0%, rgba(50, 15, 133, 0) 100%);
+    background-size: 30rem;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-blend-mode: darken;
+    padding: 4rem;
+    min-height: 40vh;
+    height: 50%;
+    color: #FDF4F5;
+    display: block;
+    text-align: center;
+    font-family: 'Preahvihear';
+  
+
+}
+
+.exp-parent > div > h1 {
+    text-align: start;
+    margin-left: 9rem;
+}
+
+.exp-container > div > img {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 30rem;
+    justify-content: space-around;
+}

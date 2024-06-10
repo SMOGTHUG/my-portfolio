@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Preahvihear&display=swap');
+
+.footer-parent {
+    justify-content: center;
+    align-items: start;
+    color: white;
+    text-align: start;
+    padding-bottom: 3rem;
+    margin-left: 15rem;
+    font-family: 'Preahvihear';
+}

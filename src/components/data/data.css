@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Preahvihear&display=swap');
+  
+.data-parent {
+    display: flex;
+    font-family: 'preahvihear';
+    color: white;
+    justify-content: center;
+    align-items: center;
+    padding-top: 7rem;
+    text-align: center;
+
+}
+
+.data-title {
+    display: flex;
+    gap: 1px;
+    margin-left: -12rem;
+    margin-top: -5rem;
+    height: 100%;
+    gap: 0;
+   
+
+}
+
+
+.data-title >h3 > span {
+    color:  #7127BA;
+}
+
+.data-title >h3 {
+    margin-left: -1rem;
+    font-size: 19px;
+    font-weight: 400;
+    letter-spacing: -0.5px;
+    
+
+    
+}
+
+
+.pic1 {
+    background: radial-gradient(50% 50% at 50% 50%, #763CAC 0%, rgba(50, 15, 133, 0) 100%);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-blend-mode: darken;
+    padding: 4rem;
+    min-height: 40vh;
+    height: 50%;
+    color: #FDF4F5;
+    display: block;
+    text-align: justify;
+    margin-top: 3rem;
+}
+
+.data-data {
+    margin-left: -4rem;
+    text-align: start;
+    margin-top: -2rem;
+
+
+}
+
+.data-data > h1 > span > img {
+    position: absolute;
+    width: 188.58px;
+    height: 57.9px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    margin-left: -11.5rem;
+    margin-top: 0.2rem;
+    
+
+}
+
+.data-data > h1 > span {
+    margin-left: 1rem;
+    color: #7127BA;
+
+}
+
+.data-data > h1 {
+font-size: 50px;
+font-weight: 400;
+line-height: 63.33px;
+letter-spacing: 0.02em;
+text-align: left;
+margin-top: -3rem;
+
+
+}
+
+.data-data > h6 {
+    padding-bottom: -4rem;
+    font-family: 'Preahvihear';
+    font-size: 17px;
+    font-weight: 400;
+    text-decoration: underline;
+    line-height: 30.71px;
+    letter-spacing: 0.02em;
+
+}
+
+.data-data > p {
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 19.87px;
+    letter-spacing: 0.02em;
+    margin-top: -2rem;
+   
+
+}

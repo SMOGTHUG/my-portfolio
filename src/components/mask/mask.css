@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Preahvihear&display=swap');
+
+
+  .mask-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin-bottom: 7rem; */
+    padding-top: 5rem;
+  }
+  
+  .mask-img {
+   
+    margin-right: -5rem;
+  
+
+  }
+
+  .mask-imgin {
+  
+   margin-left: -5rem;
+
+  
+
+  }
